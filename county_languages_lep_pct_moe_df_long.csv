@@ -1,0 +1,217 @@
+,Geography,Geographic Area Name,language,lep_pct,moe_lep_pct_65_plus
+0,0500000US24001,"Allegany County, Maryland",lep_pct_over_5,1.0,0.3
+1,0500000US24003,"Anne Arundel County, Maryland",lep_pct_over_5,4.5,0.3
+2,0500000US24005,"Baltimore County, Maryland",lep_pct_over_5,5.5,0.3
+3,0500000US24009,"Calvert County, Maryland",lep_pct_over_5,1.5,0.5
+4,0500000US24011,"Caroline County, Maryland",lep_pct_over_5,4.4,0.5
+5,0500000US24013,"Carroll County, Maryland",lep_pct_over_5,1.9,0.3
+6,0500000US24015,"Cecil County, Maryland",lep_pct_over_5,2.3,0.6
+7,0500000US24017,"Charles County, Maryland",lep_pct_over_5,3.0,0.4
+8,0500000US24019,"Dorchester County, Maryland",lep_pct_over_5,2.7,0.8
+9,0500000US24021,"Frederick County, Maryland",lep_pct_over_5,5.6,0.4
+10,0500000US24023,"Garrett County, Maryland",lep_pct_over_5,0.4,0.2
+11,0500000US24025,"Harford County, Maryland",lep_pct_over_5,2.5,0.3
+12,0500000US24027,"Howard County, Maryland",lep_pct_over_5,8.8,0.6
+13,0500000US24029,"Kent County, Maryland",lep_pct_over_5,1.4,0.8
+14,0500000US24031,"Montgomery County, Maryland",lep_pct_over_5,15.8,0.3
+15,0500000US24033,"Prince George's County, Maryland",lep_pct_over_5,14.6,0.3
+16,0500000US24035,"Queen Anne's County, Maryland",lep_pct_over_5,2.1,0.5
+17,0500000US24037,"St. Mary's County, Maryland",lep_pct_over_5,2.6,0.7
+18,0500000US24039,"Somerset County, Maryland",lep_pct_over_5,2.8,1.9
+19,0500000US24041,"Talbot County, Maryland",lep_pct_over_5,4.5,1.0
+20,0500000US24043,"Washington County, Maryland",lep_pct_over_5,3.3,0.5
+21,0500000US24045,"Wicomico County, Maryland",lep_pct_over_5,6.5,1.1
+22,0500000US24047,"Worcester County, Maryland",lep_pct_over_5,1.7,0.5
+23,0500000US24510,"Baltimore city, Maryland",lep_pct_over_5,4.5,0.3
+24,0500000US24001,"Allegany County, Maryland",lep_pct_spanish,34.8,12.2
+25,0500000US24003,"Anne Arundel County, Maryland",lep_pct_spanish,37.6,3.0
+26,0500000US24005,"Baltimore County, Maryland",lep_pct_spanish,39.8,3.3
+27,0500000US24009,"Calvert County, Maryland",lep_pct_spanish,27.6,11.4
+28,0500000US24011,"Caroline County, Maryland",lep_pct_spanish,58.2,6.9
+29,0500000US24013,"Carroll County, Maryland",lep_pct_spanish,32.4,5.5
+30,0500000US24015,"Cecil County, Maryland",lep_pct_spanish,29.0,9.4
+31,0500000US24017,"Charles County, Maryland",lep_pct_spanish,35.9,6.0
+32,0500000US24019,"Dorchester County, Maryland",lep_pct_spanish,46.9,11.9
+33,0500000US24021,"Frederick County, Maryland",lep_pct_spanish,37.1,3.2
+34,0500000US24023,"Garrett County, Maryland",lep_pct_spanish,30.8,18.2
+35,0500000US24025,"Harford County, Maryland",lep_pct_spanish,37.0,5.8
+36,0500000US24027,"Howard County, Maryland",lep_pct_spanish,39.6,4.3
+37,0500000US24029,"Kent County, Maryland",lep_pct_spanish,29.5,15.0
+38,0500000US24031,"Montgomery County, Maryland",lep_pct_spanish,43.4,1.2
+39,0500000US24033,"Prince George's County, Maryland",lep_pct_spanish,57.4,1.3
+40,0500000US24035,"Queen Anne's County, Maryland",lep_pct_spanish,44.2,10.3
+41,0500000US24037,"St. Mary's County, Maryland",lep_pct_spanish,31.3,10.2
+42,0500000US24039,"Somerset County, Maryland",lep_pct_spanish,26.2,8.4
+43,0500000US24041,"Talbot County, Maryland",lep_pct_spanish,47.6,7.9
+44,0500000US24043,"Washington County, Maryland",lep_pct_spanish,41.1,5.5
+45,0500000US24045,"Wicomico County, Maryland",lep_pct_spanish,33.7,7.6
+46,0500000US24047,"Worcester County, Maryland",lep_pct_spanish,35.6,8.9
+47,0500000US24510,"Baltimore city, Maryland",lep_pct_spanish,44.3,3.0
+48,0500000US24001,"Allegany County, Maryland",lep_pct_spanish_65_plus,19.7,17.0
+49,0500000US24003,"Anne Arundel County, Maryland",lep_pct_spanish_65_plus,28.9,8.0
+50,0500000US24005,"Baltimore County, Maryland",lep_pct_spanish_65_plus,38.3,7.8
+51,0500000US24009,"Calvert County, Maryland",lep_pct_spanish_65_plus,86.2,19.7
+52,0500000US24011,"Caroline County, Maryland",lep_pct_spanish_65_plus,23.1,28.1
+53,0500000US24013,"Carroll County, Maryland",lep_pct_spanish_65_plus,8.8,11.1
+54,0500000US24015,"Cecil County, Maryland",lep_pct_spanish_65_plus,27.5,27.2
+55,0500000US24017,"Charles County, Maryland",lep_pct_spanish_65_plus,47.1,21.3
+56,0500000US24019,"Dorchester County, Maryland",lep_pct_spanish_65_plus,74.7,38.1
+57,0500000US24021,"Frederick County, Maryland",lep_pct_spanish_65_plus,51.4,10.2
+58,0500000US24023,"Garrett County, Maryland",lep_pct_spanish_65_plus,11.8,35.1
+59,0500000US24025,"Harford County, Maryland",lep_pct_spanish_65_plus,28.0,10.1
+60,0500000US24027,"Howard County, Maryland",lep_pct_spanish_65_plus,43.4,14.2
+61,0500000US24029,"Kent County, Maryland",lep_pct_spanish_65_plus,8.8,15.6
+62,0500000US24031,"Montgomery County, Maryland",lep_pct_spanish_65_plus,62.3,3.6
+63,0500000US24033,"Prince George's County, Maryland",lep_pct_spanish_65_plus,65.3,5.1
+64,0500000US24035,"Queen Anne's County, Maryland",lep_pct_spanish_65_plus,28.6,23.8
+65,0500000US24037,"St. Mary's County, Maryland",lep_pct_spanish_65_plus,37.4,19.7
+66,0500000US24039,"Somerset County, Maryland",lep_pct_spanish_65_plus,0.0,54.3
+67,0500000US24041,"Talbot County, Maryland",lep_pct_spanish_65_plus,25.9,20.4
+68,0500000US24043,"Washington County, Maryland",lep_pct_spanish_65_plus,67.2,15.1
+69,0500000US24045,"Wicomico County, Maryland",lep_pct_spanish_65_plus,2.3,4.7
+70,0500000US24047,"Worcester County, Maryland",lep_pct_spanish_65_plus,15.8,17.0
+71,0500000US24510,"Baltimore city, Maryland",lep_pct_spanish_65_plus,48.8,11.0
+72,0500000US24001,"Allegany County, Maryland",lep_pct_indo_euro,12.1,8.3
+73,0500000US24003,"Anne Arundel County, Maryland",lep_pct_indo_euro,24.3,2.4
+74,0500000US24005,"Baltimore County, Maryland",lep_pct_indo_euro,33.9,2.6
+75,0500000US24009,"Calvert County, Maryland",lep_pct_indo_euro,15.8,7.5
+76,0500000US24011,"Caroline County, Maryland",lep_pct_indo_euro,18.3,17.2
+77,0500000US24013,"Carroll County, Maryland",lep_pct_indo_euro,17.9,5.8
+78,0500000US24015,"Cecil County, Maryland",lep_pct_indo_euro,31.9,10.4
+79,0500000US24017,"Charles County, Maryland",lep_pct_indo_euro,30.4,5.7
+80,0500000US24019,"Dorchester County, Maryland",lep_pct_indo_euro,33.2,29.6
+81,0500000US24021,"Frederick County, Maryland",lep_pct_indo_euro,21.6,3.3
+82,0500000US24023,"Garrett County, Maryland",lep_pct_indo_euro,2.5,3.8
+83,0500000US24025,"Harford County, Maryland",lep_pct_indo_euro,17.7,3.8
+84,0500000US24027,"Howard County, Maryland",lep_pct_indo_euro,22.0,2.8
+85,0500000US24029,"Kent County, Maryland",lep_pct_indo_euro,25.4,12.0
+86,0500000US24031,"Montgomery County, Maryland",lep_pct_indo_euro,27.2,1.5
+87,0500000US24033,"Prince George's County, Maryland",lep_pct_indo_euro,33.2,2.9
+88,0500000US24035,"Queen Anne's County, Maryland",lep_pct_indo_euro,15.6,10.7
+89,0500000US24037,"St. Mary's County, Maryland",lep_pct_indo_euro,38.1,15.2
+90,0500000US24039,"Somerset County, Maryland",lep_pct_indo_euro,17.0,34.1
+91,0500000US24041,"Talbot County, Maryland",lep_pct_indo_euro,38.5,16.8
+92,0500000US24043,"Washington County, Maryland",lep_pct_indo_euro,27.6,8.7
+93,0500000US24045,"Wicomico County, Maryland",lep_pct_indo_euro,60.1,8.0
+94,0500000US24047,"Worcester County, Maryland",lep_pct_indo_euro,15.4,7.4
+95,0500000US24510,"Baltimore city, Maryland",lep_pct_indo_euro,26.9,4.5
+96,0500000US24001,"Allegany County, Maryland",lep_pct_indo_euro_65_plus,19.9,19.0
+97,0500000US24003,"Anne Arundel County, Maryland",lep_pct_indo_euro_65_plus,29.6,6.2
+98,0500000US24005,"Baltimore County, Maryland",lep_pct_indo_euro_65_plus,51.6,5.3
+99,0500000US24009,"Calvert County, Maryland",lep_pct_indo_euro_65_plus,40.8,30.8
+100,0500000US24011,"Caroline County, Maryland",lep_pct_indo_euro_65_plus,13.3,23.3
+101,0500000US24013,"Carroll County, Maryland",lep_pct_indo_euro_65_plus,33.1,13.7
+102,0500000US24015,"Cecil County, Maryland",lep_pct_indo_euro_65_plus,49.8,28.3
+103,0500000US24017,"Charles County, Maryland",lep_pct_indo_euro_65_plus,38.6,15.8
+104,0500000US24019,"Dorchester County, Maryland",lep_pct_indo_euro_65_plus,47.3,41.8
+105,0500000US24021,"Frederick County, Maryland",lep_pct_indo_euro_65_plus,36.3,12.9
+106,0500000US24023,"Garrett County, Maryland",lep_pct_indo_euro_65_plus,6.1,10.7
+107,0500000US24025,"Harford County, Maryland",lep_pct_indo_euro_65_plus,23.9,11.1
+108,0500000US24027,"Howard County, Maryland",lep_pct_indo_euro_65_plus,39.2,7.8
+109,0500000US24029,"Kent County, Maryland",lep_pct_indo_euro_65_plus,52.0,37.2
+110,0500000US24031,"Montgomery County, Maryland",lep_pct_indo_euro_65_plus,39.2,3.2
+111,0500000US24033,"Prince George's County, Maryland",lep_pct_indo_euro_65_plus,47.1,8.2
+112,0500000US24035,"Queen Anne's County, Maryland",lep_pct_indo_euro_65_plus,21.0,14.9
+113,0500000US24037,"St. Mary's County, Maryland",lep_pct_indo_euro_65_plus,22.7,20.7
+114,0500000US24039,"Somerset County, Maryland",lep_pct_indo_euro_65_plus,69.2,69.2
+115,0500000US24041,"Talbot County, Maryland",lep_pct_indo_euro_65_plus,49.7,27.5
+116,0500000US24043,"Washington County, Maryland",lep_pct_indo_euro_65_plus,17.8,9.9
+117,0500000US24045,"Wicomico County, Maryland",lep_pct_indo_euro_65_plus,31.5,17.0
+118,0500000US24047,"Worcester County, Maryland",lep_pct_indo_euro_65_plus,15.3,11.5
+119,0500000US24510,"Baltimore city, Maryland",lep_pct_indo_euro_65_plus,36.7,8.8
+120,0500000US24001,"Allegany County, Maryland",lep_pct_asian_pacific,52.6,15.0
+121,0500000US24003,"Anne Arundel County, Maryland",lep_pct_asian_pacific,39.9,4.0
+122,0500000US24005,"Baltimore County, Maryland",lep_pct_asian_pacific,39.7,2.9
+123,0500000US24009,"Calvert County, Maryland",lep_pct_asian_pacific,37.4,11.8
+124,0500000US24011,"Caroline County, Maryland",lep_pct_asian_pacific,55.6,51.3
+125,0500000US24013,"Carroll County, Maryland",lep_pct_asian_pacific,37.9,10.3
+126,0500000US24015,"Cecil County, Maryland",lep_pct_asian_pacific,39.6,13.7
+127,0500000US24017,"Charles County, Maryland",lep_pct_asian_pacific,27.9,7.8
+128,0500000US24019,"Dorchester County, Maryland",lep_pct_asian_pacific,62.3,27.2
+129,0500000US24021,"Frederick County, Maryland",lep_pct_asian_pacific,34.9,4.6
+130,0500000US24023,"Garrett County, Maryland",lep_pct_asian_pacific,14.2,20.5
+131,0500000US24025,"Harford County, Maryland",lep_pct_asian_pacific,37.7,5.5
+132,0500000US24027,"Howard County, Maryland",lep_pct_asian_pacific,37.0,2.5
+133,0500000US24029,"Kent County, Maryland",lep_pct_asian_pacific,18.4,32.1
+134,0500000US24031,"Montgomery County, Maryland",lep_pct_asian_pacific,41.6,1.5
+135,0500000US24033,"Prince George's County, Maryland",lep_pct_asian_pacific,40.1,3.4
+136,0500000US24035,"Queen Anne's County, Maryland",lep_pct_asian_pacific,44.8,30.6
+137,0500000US24037,"St. Mary's County, Maryland",lep_pct_asian_pacific,42.2,11.3
+138,0500000US24039,"Somerset County, Maryland",lep_pct_asian_pacific,0.0,55.8
+139,0500000US24041,"Talbot County, Maryland",lep_pct_asian_pacific,38.6,17.0
+140,0500000US24043,"Washington County, Maryland",lep_pct_asian_pacific,37.8,12.5
+141,0500000US24045,"Wicomico County, Maryland",lep_pct_asian_pacific,43.7,12.0
+142,0500000US24047,"Worcester County, Maryland",lep_pct_asian_pacific,34.7,16.1
+143,0500000US24510,"Baltimore city, Maryland",lep_pct_asian_pacific,38.1,3.8
+144,0500000US24001,"Allegany County, Maryland",lep_pct_asian_pacific_65_plus,25.0,42.4
+145,0500000US24003,"Anne Arundel County, Maryland",lep_pct_asian_pacific_65_plus,55.7,11.6
+146,0500000US24005,"Baltimore County, Maryland",lep_pct_asian_pacific_65_plus,60.3,6.1
+147,0500000US24009,"Calvert County, Maryland",lep_pct_asian_pacific_65_plus,60.3,27.6
+148,0500000US24011,"Caroline County, Maryland",lep_pct_asian_pacific_65_plus,0.0,100.0
+149,0500000US24013,"Carroll County, Maryland",lep_pct_asian_pacific_65_plus,58.3,14.9
+150,0500000US24015,"Cecil County, Maryland",lep_pct_asian_pacific_65_plus,31.3,30.9
+151,0500000US24017,"Charles County, Maryland",lep_pct_asian_pacific_65_plus,26.7,14.0
+152,0500000US24019,"Dorchester County, Maryland",lep_pct_asian_pacific_65_plus,76.7,36.4
+153,0500000US24021,"Frederick County, Maryland",lep_pct_asian_pacific_65_plus,51.7,16.3
+154,0500000US24023,"Garrett County, Maryland",lep_pct_asian_pacific_65_plus,0.0,100.0
+155,0500000US24025,"Harford County, Maryland",lep_pct_asian_pacific_65_plus,64.1,13.7
+156,0500000US24027,"Howard County, Maryland",lep_pct_asian_pacific_65_plus,66.4,6.4
+157,0500000US24029,"Kent County, Maryland",lep_pct_asian_pacific_65_plus,-,**
+158,0500000US24031,"Montgomery County, Maryland",lep_pct_asian_pacific_65_plus,64.4,3.3
+159,0500000US24033,"Prince George's County, Maryland",lep_pct_asian_pacific_65_plus,51.1,9.3
+160,0500000US24035,"Queen Anne's County, Maryland",lep_pct_asian_pacific_65_plus,25.2,33.4
+161,0500000US24037,"St. Mary's County, Maryland",lep_pct_asian_pacific_65_plus,74.6,20.2
+162,0500000US24039,"Somerset County, Maryland",lep_pct_asian_pacific_65_plus,-,**
+163,0500000US24041,"Talbot County, Maryland",lep_pct_asian_pacific_65_plus,93.5,12.5
+164,0500000US24043,"Washington County, Maryland",lep_pct_asian_pacific_65_plus,22.0,17.3
+165,0500000US24045,"Wicomico County, Maryland",lep_pct_asian_pacific_65_plus,93.4,8.5
+166,0500000US24047,"Worcester County, Maryland",lep_pct_asian_pacific_65_plus,100.0,100.0
+167,0500000US24510,"Baltimore city, Maryland",lep_pct_asian_pacific_65_plus,66.2,15.4
+168,0500000US24001,"Allegany County, Maryland",lep_pct_other,11.9,17.3
+169,0500000US24003,"Anne Arundel County, Maryland",lep_pct_other,12.9,4.2
+170,0500000US24005,"Baltimore County, Maryland",lep_pct_other,24.4,3.3
+171,0500000US24009,"Calvert County, Maryland",lep_pct_other,15.7,15.8
+172,0500000US24011,"Caroline County, Maryland",lep_pct_other,3.5,15.8
+173,0500000US24013,"Carroll County, Maryland",lep_pct_other,20.4,13.7
+174,0500000US24015,"Cecil County, Maryland",lep_pct_other,43.2,19.2
+175,0500000US24017,"Charles County, Maryland",lep_pct_other,8.1,4.7
+176,0500000US24019,"Dorchester County, Maryland",lep_pct_other,0.0,43.8
+177,0500000US24021,"Frederick County, Maryland",lep_pct_other,23.1,5.3
+178,0500000US24023,"Garrett County, Maryland",lep_pct_other,-,**
+179,0500000US24025,"Harford County, Maryland",lep_pct_other,21.5,7.0
+180,0500000US24027,"Howard County, Maryland",lep_pct_other,18.4,3.5
+181,0500000US24029,"Kent County, Maryland",lep_pct_other,6.7,12.1
+182,0500000US24031,"Montgomery County, Maryland",lep_pct_other,25.8,1.9
+183,0500000US24033,"Prince George's County, Maryland",lep_pct_other,22.6,2.3
+184,0500000US24035,"Queen Anne's County, Maryland",lep_pct_other,12.2,9.1
+185,0500000US24037,"St. Mary's County, Maryland",lep_pct_other,13.4,13.2
+186,0500000US24039,"Somerset County, Maryland",lep_pct_other,58.8,26.4
+187,0500000US24041,"Talbot County, Maryland",lep_pct_other,60.7,22.9
+188,0500000US24043,"Washington County, Maryland",lep_pct_other,10.8,6.9
+189,0500000US24045,"Wicomico County, Maryland",lep_pct_other,31.5,22.6
+190,0500000US24047,"Worcester County, Maryland",lep_pct_other,51.9,40.3
+191,0500000US24510,"Baltimore city, Maryland",lep_pct_other,31.4,7.6
+192,0500000US24001,"Allegany County, Maryland",lep_pct_other_65_plus,0.0,100.0
+193,0500000US24003,"Anne Arundel County, Maryland",lep_pct_other_65_plus,17.3,13.6
+194,0500000US24005,"Baltimore County, Maryland",lep_pct_other_65_plus,28.9,9.2
+195,0500000US24009,"Calvert County, Maryland",lep_pct_other_65_plus,40.5,51.2
+196,0500000US24011,"Caroline County, Maryland",lep_pct_other_65_plus,100.0,100.0
+197,0500000US24013,"Carroll County, Maryland",lep_pct_other_65_plus,13.2,21.5
+198,0500000US24015,"Cecil County, Maryland",lep_pct_other_65_plus,60.5,43.0
+199,0500000US24017,"Charles County, Maryland",lep_pct_other_65_plus,33.3,28.8
+200,0500000US24019,"Dorchester County, Maryland",lep_pct_other_65_plus,0.0,100.0
+201,0500000US24021,"Frederick County, Maryland",lep_pct_other_65_plus,57.6,15.0
+202,0500000US24023,"Garrett County, Maryland",lep_pct_other_65_plus,-,**
+203,0500000US24025,"Harford County, Maryland",lep_pct_other_65_plus,59.5,27.7
+204,0500000US24027,"Howard County, Maryland",lep_pct_other_65_plus,34.5,13.5
+205,0500000US24029,"Kent County, Maryland",lep_pct_other_65_plus,-,**
+206,0500000US24031,"Montgomery County, Maryland",lep_pct_other_65_plus,31.9,5.6
+207,0500000US24033,"Prince George's County, Maryland",lep_pct_other_65_plus,33.3,5.4
+208,0500000US24035,"Queen Anne's County, Maryland",lep_pct_other_65_plus,0.0,100.0
+209,0500000US24037,"St. Mary's County, Maryland",lep_pct_other_65_plus,0.0,61.9
+210,0500000US24039,"Somerset County, Maryland",lep_pct_other_65_plus,100.0,44.9
+211,0500000US24041,"Talbot County, Maryland",lep_pct_other_65_plus,13.3,41.4
+212,0500000US24043,"Washington County, Maryland",lep_pct_other_65_plus,0.0,34.0
+213,0500000US24045,"Wicomico County, Maryland",lep_pct_other_65_plus,0.0,100.0
+214,0500000US24047,"Worcester County, Maryland",lep_pct_other_65_plus,0.0,90.6
+215,0500000US24510,"Baltimore city, Maryland",lep_pct_other_65_plus,26.0,17.5

@@ -16,9 +16,13 @@ care I was focused on was langauge services and culturally familiar food accommo
 
 ## Skills Used and Key Learning Moments
 
-- This was a frustrating and lengthy project. I ran into a lot of stuck moments, unsure of how to move forward. This was mostly because I was using the wrong data to answer my questions and trying to create map layers in QGIS. I learned about qgis2web and used it to create HTML for one layer but learned that it doesn't work for graduated symbology, only simple. I spent days trying to figure out why qgis2web kept crashing the program before I remembered I should read the actual documentation, where I learned about the inability to export graduated layers. But a TA told me that geographical data doesn't have to be represented geographically and recommended a scatterplot, which helped me to get unstuck and move this project forward. 
+- This was a frustrating and lengthy project. I ran into a lot of stuck moments, unsure of how to move forward. This was mostly because I was using the wrong data to answer my questions and trying to create map layers in QGIS. 
 
-- Census data was confusing to work with. I felt like I had to make a lot of judgement calls because of the high margins of error for some estimates and suppressed values.  
+- I learned about qgis2web and used it to create HTML for one layer but learned that it doesn't work for graduated symbology, only simple. I spent days trying to figure out why qgis2web kept crashing the program before I remembered I should read the actual documentation, where I learned about the inability to export graduated layers. But a TA told me that geographical data doesn't have to be represented geographically and recommended a scatterplot, which helped me to get unstuck and move this project forward. 
+
+- Census data was confusing to work with. I felt like I had to make a lot of changes along the way regarding levels of analysis because of the high margins of error for some estimates and suppressed values. 
+
+- Looking back, I should've spent more time understanding how census data is collected and often used before just diving in and thinking it was ready to use simply because it was available. I think my "cleaning" is not as clean as it could be, and I wasn't as dilligent about keeping a data diary because I was getting frustrated by all the pivots. 
 
 ## What I Wanted to Do
 

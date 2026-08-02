@@ -20,7 +20,7 @@ care I was focused on was langauge services and culturally familiar food accommo
 
 - I learned about qgis2web and used it to create HTML for one layer but learned that it doesn't work for graduated symbology, only simple. I spent days trying to figure out why qgis2web kept crashing the program before I remembered I should read the actual documentation, where I learned about the inability to export graduated layers. But a TA told me that geographical data doesn't have to be represented geographically and recommended a scatterplot, which helped me to get unstuck and move this project forward. 
 
-- Census data was confusing to work with. I felt like I had to make a lot of changes along the way regarding levels of analysis because of the high margins of error for some estimates and suppressed values. 
+- Census data was confusing to work with. I felt like I had to make a lot of changes along the way regarding levels of analysis because of the high margins of error for some estimates and suppressed values. I was also uncertain of how to analyze it in a way that wouldn't lead to exaggerated or misleading conclusions. 
 
 - Looking back, I should've spent more time understanding how census data is collected and often used before just diving in and thinking it was ready to use simply because it was available. I think my "cleaning" is not as clean as it could be, and I wasn't as dilligent about keeping a data diary because I was getting frustrated by all the pivots. 
 
